@@ -5,6 +5,15 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
 
-/>
+>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="77dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="I am acitivity_main"
+        android:id="@+id/textView"
+        android:layout_gravity="center" />
+</FrameLayout>
 
 
