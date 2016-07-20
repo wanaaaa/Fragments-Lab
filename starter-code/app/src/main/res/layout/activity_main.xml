@@ -9,11 +9,11 @@
 
     <TextView
         android:layout_width="wrap_content"
-        android:layout_height="77dp"
+        android:layout_height="46dp"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="I am acitivity_main"
         android:id="@+id/textView"
-        android:layout_gravity="center" />
+        android:layout_gravity="right|bottom" />
 </FrameLayout>
 
 

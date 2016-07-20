@@ -19,7 +19,7 @@
         jar="/Users/wanmac/Documents/000Android/lab/Fragments-Lab/starter-code/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="1874b4cd0502a3d43d20c0011ae05c0a8c52723f">
+        sha1="9fd035a132d06e9fe0147229c5d27191945182dc">
         <dex dex="/Users/wanmac/Documents/000Android/lab/Fragments-Lab/starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d7ac977913d0184cebe978abfd291e1c22155e4c/classes.dex" />
     </item>
     <item
@@ -47,7 +47,7 @@
         jar="/Users/wanmac/Documents/000Android/lab/Fragments-Lab/starter-code/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="da1b6e7a50382f583bd2fbf6f0d221a16956ebd8">
+        sha1="07326e37df1a4621f33c5f3e671984b4259fba71">
         <dex dex="/Users/wanmac/Documents/000Android/lab/Fragments-Lab/starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ce29ce022f498d4873ac709f307e7f4b52b768db/classes.dex" />
     </item>
     <item
